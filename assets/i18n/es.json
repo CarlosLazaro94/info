@@ -1,0 +1,20 @@
+{
+    "PORTAFOLIO": {
+        "TITLE": "CARLOS LAZARO",
+        "PROYECTOS": "Proyectos",
+        "CONTACTO": "Redes",
+        "ABOUT": "Acerca de",
+        "SKILL": "Habilidad",
+        "CONTACT_DESC": "Puedes encontrarme en: ",
+        "DESCRIPCION": "Ingeniero de Sistemas y Computación Full Stack con más de 3 años de experiencia. Comprometido, responsable y proactivo, enfocado en el Desarrollo de Software y Gestión de Proyectos. Apasionado por el aprendizaje constante y la resolución de desafíos.",
+        "LEARMORE": "Leer mas ",
+        "WORK-1": "Iniciativa interproyectos para garantizar la alineación de los procesos comerciales, operativos y financieros, y así obtener indicadores de gestión de proyectos e involucrar más al propietario del proceso en el proceso de cambio. Encargado del desarrollo de los requisitos comerciales. Igualmente, realizaba pruebas en diferentes entornos, brindaba soporte y corregía errores.",
+        "WORK-2": "Proyecto Billeteras Apple Pay enfocado en dispositivos Apple para poder realizar pagos sin contacto. Encargado del desarrollo de los requerimientos de negocio, actualizaciones y soporte a las apis CORE del banco, asimismo modificaciones a nivel de devops y brindar soporte a los pases a producción. Brindar apoyo en el desarrollo Frontend para el backoffice encargado de facilitar la configuraciones y parametrización del producto. Habilidades desarrolladas proactividad, gestión de equipos, autodidacta. También estuve apoyando a otros equipos como ventas de tarjetas, Plin.",
+        "WORK-3": "Proyecto Billeteras Apple Pay enfocado en dispositivos Apple para poder realizar pagos sin contacto. Encargado del desarrollo de los requerimientos de negocio, actualizaciones y soporte, asimismo modificaciones. Brindar apoyo en el desarrollo Frontend para el backoffice encargado de facilitar la configuraciones y parametrización del producto.",
+        "NOMBRE": "Nombre",
+        "CUMPLAÑOS": "Dia de Cumpleaños",
+        "DIRECCION": "Direccion",
+        "EMAIL": "Correo",
+        "PHONE": "Celular"
+    }
+}

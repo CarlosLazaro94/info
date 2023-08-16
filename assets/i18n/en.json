@@ -1,0 +1,20 @@
+{
+    "PORTAFOLIO": {
+        "TITLE": "CARLOS LAZARO",
+        "PROYECTOS": "Projets",
+        "CONTACTO": "Socials",
+        "ABOUT": "About",
+        "CONTACT_DESC": "You can find me at: ",
+        "SKILL": "Skill",
+        "DESCRIPCION": "Full Stack Systems and Computing Engineer with over 3 years of experience. Committed, responsible, and proactive, focused on Software Development and Project Management. Passionate about continuous learning and tackling challenges.",
+        "LEARMORE": "Learn more ",
+        "WORK-1": "Cross-project initiative aimed at ensuring business, operational, and financial processes, thereby establishing project management metrics and increasing process owner engagement in change initiatives. Responsible for translating business requirements into development tasks. Additionally, conducted testing across diverse environments, provided support, and addressed bug fixes.",
+        "WORK-2": "Apple Pay Wallet Project targeting Apple devices for seamless contactless payments. Led the development of business requirements, managed updates, and provided support for the bank's CORE APIs. Executed DevOps modifications and facilitated production deployments. Contributed to Frontend development for the back office, enabling streamlined product configurations and parameterization. Developed skills in proactivity, team management, and self-directed learning. Additionally, supported other teams such as card sales and Plin.",
+        "WORK-3": "Apple Pay Wallet Project centered on Apple devices, enabling contactless payments. Responsible for business requirement development, updates, support, and modifications. Assisted in Frontend development for the back office, streamlining product configurations and parameterization.",
+        "NOMBRE": "Name",
+        "CUMPLAÑOS": "Date of birth",
+        "DIRECCION": "Address",
+        "EMAIL": "Email",
+        "PHONE": "Phone"
+    }
+}
